@@ -1,0 +1,6 @@
+20230926	22:59:49	a565cabc-7258-4907-963f-820f264bba16	GET	undefined	/
+20230926	22:59:49	916d1cc1-9d95-452e-a226-f738312c2750	GET	undefined	/css/style.css
+20230926	22:59:49	2d92da6d-0c31-4a14-b39a-95958a38fd6d	GET	undefined	/favicon.ico
+20230926	23:00:45	c6c6cfef-68eb-4250-9918-e64e43dcbd49	GET	undefined	/img/img1.jpg
+20230926	23:02:31	85bf9804-8d06-48a1-ae05-0984f08b7889	GET	undefined	/css/style.css
+20230926	23:02:42	aecf02a7-0649-4c67-bc15-7c9c6213c69b	GET	undefined	/img/img1.jpg
